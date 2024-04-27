@@ -1,0 +1,33 @@
+
+.logo{
+    position: absolute;
+    float: left;
+    height: 104px;
+    display: flex;
+    align-items: center;
+}
+
+.linksC{
+    float: right;
+    height: 104px;
+    display: flex;
+    align-items: center;
+}
+
+.capa{
+    width: 100%;
+}
+
+.conteudo{
+    padding-bottom: 40px;
+}
+
+.rodape{
+    text-align: center;
+}
+
+body{
+    max-width: 900px;
+    margin: 0 auto;
+    background-image: url('./img/fundo.png');
+}
